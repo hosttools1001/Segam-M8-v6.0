@@ -61,9 +61,7 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 📌 **Exemplo:**
 
 ```
-roms/
-├── mario.zip
-├── mario.png ✅
+![image](https://github.com/user-attachments/assets/ace1b7b3-9241-4e25-aceb-a9a517fccb74)
 ```
 
 - Escolha uma pasta de `0` a `8` para processar.
