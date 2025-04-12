@@ -91,6 +91,8 @@ roms/
 
 ---
 
+### ✅ Resultado: lista com ROMs adicionadas
+
 ### 📋 OPÇÃO 4 — Criar lista da aba geral
 
 - Essa opção cria uma **lista geral de até 200 ROMs por console**, escolhidas aleatoriamente.
