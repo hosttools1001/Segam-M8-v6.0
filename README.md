@@ -24,7 +24,7 @@ em seguida execute o menu.bat irar abrir o menu de opções
 
 ![image](https://github.com/user-attachments/assets/2f9c3d72-e8b8-43e4-a92a-7835faecb13c)
 
-ESCOLENDO A OPÇÂO 1
+ESCOLHENDO A OPÇÂO 1
 nessa o opção o script verificar e compactar as roms das pastas (001 ate a 006)
 caso tenha alguma rom descompactada
 
@@ -32,7 +32,7 @@ esse passo e OPICIONAL use se achar importante !
 
 ![image](https://github.com/user-attachments/assets/bd1f6bc5-bf47-4f00-b5e8-76f01344cc17)
 
-ESCOLENDO A OPÇÂO 2
+ESCOLHENDO A OPÇÂO 2
 nessa opção o script convert as capas dos jogos adicionados
 IMPORTANTE AS CAPAS DEVEM SER .PNG E DEVEM SER COLOCADAS NA PASTA JUNTO A ROM ADICIONADA COM O MESMO NOME DA ROM
 EX:
@@ -46,7 +46,7 @@ aguarde ate o script terminar pode demorar dependendo da quantidade de capas
 agorar podemos proseguir para criação da playlist
 OBS: não e obrigatorio colocar capas nas roms
 
-ESCOLENDO A OPÇÂO 3
+ESCOLHENDO A OPÇÂO 3
 nessa opção o script cria a lista de roms no menu de seleção do emulador
 escolha um pasta da (000 ate 008) espere o script terminar de criar a lista
 em segudia ele pergunta se deve criar o .dat confirme e a rom sera a dicionada ao menu de seleção do emulador
@@ -55,6 +55,14 @@ em segudia ele pergunta se deve criar o .dat confirme e a rom sera a dicionada a
 
 
 menu com a rom adicionada
+
+ESCOLHENDO A OPÇÂO 4
+
+nessa opção o script criar a lista de roms da aba geral a lista sera limitada a 200 roms de cada console de forma aliatoria
+
+![image](https://github.com/user-attachments/assets/e1f5e92a-48d8-46c6-8c70-22688f2ad10a)
+
+lista geral com roms adicionadas
 
 
 
