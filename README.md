@@ -2,7 +2,7 @@
 Script de atualização da lista de jogos
 esse script ajudara a autualizar suas playlist do game stik
 
-testado somente no game stick litle 4k
++testado somente no game stick litle 4k
 
 type:segam-m8-v6.0
 
@@ -15,6 +15,10 @@ um pouco sobre a estrutura da playlist desse game stick
 
 dentro de cada uma das pasta tem um arquivo .dat que sera manipulado pelo script para atualizar a lista de jogos e capas no menu do game stick não sendo mais necessario buscar as roms 
 adicionadas pelo gerenciador de arquivos.
+
+IMPORTANTE:
+O SCRIPT TRABALHA CRIANDO ARQUIVOS TEMPORARIOS NO DIRETORIO QUE ESTA MANIPULADO
+LEMBRE DE TER ESPAÇO NO CARTÃO OU PODE OCORRER ERROS NAS EXECUÇÃO
 
 COMO USAR
 ATENÇÂO ANTES DE COMÇAR FAÇA O BACKUP DO SEU CARTÂO SD PARA EVITAR POSSIVEIS PROBLEMAS
