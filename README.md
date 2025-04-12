@@ -29,6 +29,7 @@ nessa o opção o script verificar e compactar as roms das pastas (001 ate a 006
 caso tenha alguma rom descompactada
 
 esse passo e OPICIONAL use se achar importante ! 
+
 ![image](https://github.com/user-attachments/assets/bd1f6bc5-bf47-4f00-b5e8-76f01344cc17)
 
 ESCOLENDO A OPÇÂO 2
