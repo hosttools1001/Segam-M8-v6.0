@@ -39,10 +39,24 @@ EX:
 
 ![image](https://github.com/user-attachments/assets/ace1b7b3-9241-4e25-aceb-a9a517fccb74)
 
-em seguida o script pergunta qual pasta deve converte escolha de (0 a 8)
+em seguida o script pergunta qual pasta deve converter escolha de (0 a 8)
 aguarde ate o script terminar pode demorar dependendo da quantidade de capas
 
 ![image](https://github.com/user-attachments/assets/caa04971-d196-4380-83ce-6bf51ec038a0)
+agorar podemos proseguir para criação da playlist
+OBS: não e obrigatorio colocar capas nas roms
+
+ESCOLENDO A OPÇÂO 3
+nessa opção o script cria a lista de roms no menu de seleção do emulador
+escolha um pasta da (000 ate 008) espere o script terminar de criar a lista
+em segudia ele pergunta se deve criar o .dat confirme e a rom sera a dicionada ao menu de seleção do emulador
+
+![image](https://github.com/user-attachments/assets/f3b8466d-841e-493e-a269-ded44d1528da)
+
+
+menu com a rom adicionada
+
+
 
 
 
