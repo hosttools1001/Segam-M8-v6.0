@@ -77,7 +77,7 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 ### ⚠️ IMPORTANTE
 ```diff
 ! ⚠️ AO CRIAR UMA LISTA PELA PRIMEIRA VEZ TODAS AS CAPAS ORIGINAIS SERAM APAGADAS
-SENDO NECESSARIO ADICIONAR NOVAS CAPAS!
+! SENDO NECESSARIO ADICIONAR NOVAS CAPAS!
 ```
 - Escolha uma pasta entre `000` e `008`.
 - O script criará a lista de jogos e perguntará se deve gerar o arquivo `.dat`.
