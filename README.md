@@ -35,10 +35,12 @@ ESCOLENDO A OPÇÂO 2
 nessa opção o script convert as capas dos jogos adicionados
 IMPORTANTE AS CAPAS DEVEM SER .PNG E DEVEM SER COLOCADAS NA PASTA JUNTO A ROM ADICIONADA COM O MESMO NOME DA ROM
 EX:
+
 ![image](https://github.com/user-attachments/assets/ace1b7b3-9241-4e25-aceb-a9a517fccb74)
 
 em seguida o script pergunta qual pasta deve converte escolha de (0 a 8)
 aguarde ate o script terminar pode demorar dependendo da quantidade de capas
+
 ![image](https://github.com/user-attachments/assets/caa04971-d196-4380-83ce-6bf51ec038a0)
 
 
