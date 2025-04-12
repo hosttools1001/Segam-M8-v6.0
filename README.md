@@ -58,10 +58,7 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 - O script converte as **capas dos jogos** adicionados.
 - As **capas devem estar no formato `.png`** e **com o mesmo nome da ROM**.
 
-📌 **Exemplo:**
-
-```
-```
+📌 **Exemplo:** ``````
 ![image](https://github.com/user-attachments/assets/ace1b7b3-9241-4e25-aceb-a9a517fccb74)
 
 - Escolha uma pasta de `0` a `8` para processar.
