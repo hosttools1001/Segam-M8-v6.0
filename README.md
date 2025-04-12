@@ -74,7 +74,10 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 ---
 
 ### 🧾 OPÇÃO 3 — Criar lista de jogos no menu do emulador
-
+### ⚠️ IMPORTANTE
+```diff
+! ⚠️ AO CRIAR UMA LISTA PELA PRIMEIRA VEZ TODAS AS CAPAS ORIGINAIS SERAM APAGADAS SENDO NECESSARIO ADICIONAR NOVAS CAPAS!
+```
 - Escolha uma pasta entre `000` e `008`.
 - O script criará a lista de jogos e perguntará se deve gerar o arquivo `.dat`.
 
