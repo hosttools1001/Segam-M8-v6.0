@@ -1,8 +1,8 @@
 # Segam-M8-v6.0
 Script de atualização da lista de jogos
 esse script ajudara a autualizar suas playlist do game stik
-diff
-+testado somente no game stick litle 4k
+
+testado somente no game stick litle 4k
 
 type:segam-m8-v6.0
 
