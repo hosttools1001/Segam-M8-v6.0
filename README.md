@@ -1,76 +1,102 @@
 # Segam-M8-v6.0
-Script de atualização da lista de jogos
-esse script ajudara a autualizar suas playlist do game stik
 
-testado somente no game stick litle 4k
+Script de atualização da lista de jogos  
+Esse script ajudará a atualizar suas playlists do Game Stick.
 
-type:segam-m8-v6.0
+📌 **Testado somente no Game Stick Little 4K**
 
-firmware:V1.0.0 2023-09-25
+- **Tipo**: `segam-m8-v6.0`  
+- **Firmware**: `V1.0.0 2023-09-25`
 
-![image](https://github.com/user-attachments/assets/9d7f3408-b622-4cda-9641-30fd835a3859)
+---
 
-um pouco sobre a estrutura da playlist desse game stick
+### 🗂️ Um pouco sobre a estrutura da playlist desse Game Stick
+
 ![image](https://github.com/user-attachments/assets/c08114af-53dc-474a-855a-a34392aa9614)
 
-dentro de cada uma das pasta tem um arquivo .dat que sera manipulado pelo script para atualizar a lista de jogos e capas no menu do game stick não sendo mais necessario buscar as roms 
-adicionadas pelo gerenciador de arquivos.
+Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para atualizar a lista de jogos e capas no menu do Game Stick — **não sendo mais necessário adicionar ROMs via gerenciador de arquivos**.
 
-IMPORTANTE:
-O SCRIPT TRABALHA CRIANDO ARQUIVOS TEMPORARIOS NO DIRETORIO QUE ESTA MANIPULADO
-LEMBRE DE TER ESPAÇO NO CARTÃO OU PODE OCORRER ERROS NAS EXECUÇÃO
+---
 
-COMO USAR
-ATENÇÂO ANTES DE COMÇAR FAÇA O BACKUP DO SEU CARTÂO SD PARA EVITAR POSSIVEIS PROBLEMAS
+### ⚠️ IMPORTANTE
 
-o script e bem simples de usar coloque os arquivos (menu.bat) e a pasta (scripts) na RAIZ do cartão 
-em seguida execute o menu.bat irar abrir o menu de opções
+```diff
+! O SCRIPT CRIA ARQUIVOS TEMPORÁRIOS NO DIRETÓRIO MANIPULADO.
+! VERIFIQUE SE HÁ ESPAÇO DISPONÍVEL NO CARTÃO SD PARA EVITAR ERROS!
+```
+
+---
+
+## 🧠 COMO USAR
+
+```diff
+! ⚠️ ANTES DE COMEÇAR, FAÇA BACKUP DO SEU CARTÃO SD PARA EVITAR PERDAS!
+```
+
+1. Coloque os arquivos `menu.bat` e a pasta `scripts` na **raiz do cartão SD**.  
+2. Execute `menu.bat`. O menu de opções será exibido:
 
 ![image](https://github.com/user-attachments/assets/2f9c3d72-e8b8-43e4-a92a-7835faecb13c)
 
-ESCOLHENDO A OPÇÂO 1
-nessa o opção o script verificar e compactar as roms das pastas (001 ate a 006)
-caso tenha alguma rom descompactada
+---
 
-esse passo e OPICIONAL use se achar importante ! 
+### 🔹 OPÇÃO 1 — Compactar ROMs
+
+- O script verifica e compacta ROMs nas pastas `001` até `006`, caso encontre alguma descompactada.
+- **Este passo é opcional!**
+
+```diff
++ Use apenas se achar necessário.
+```
 
 ![image](https://github.com/user-attachments/assets/bd1f6bc5-bf47-4f00-b5e8-76f01344cc17)
 
-ESCOLHENDO A OPÇÂO 2
-nessa opção o script convert as capas dos jogos adicionados
-IMPORTANTE AS CAPAS DEVEM SER .PNG E DEVEM SER COLOCADAS NA PASTA JUNTO A ROM ADICIONADA COM O MESMO NOME DA ROM
-EX:
+---
+
+### 🖼️ OPÇÃO 2 — Converter capas
+
+- O script converte as **capas dos jogos** adicionados.
+- As **capas devem estar no formato `.png`** e **com o mesmo nome da ROM**.
+
+📌 **Exemplo:**
+
+```
+roms/
+├── mario.zip
+├── mario.png ✅
+```
+
+- Escolha uma pasta de `0` a `8` para processar.
+- Aguarde até o fim — pode demorar dependendo da quantidade de capas.
 
 ![image](https://github.com/user-attachments/assets/ace1b7b3-9241-4e25-aceb-a9a517fccb74)
-
-em seguida o script pergunta qual pasta deve converter escolha de (0 a 8)
-aguarde ate o script terminar pode demorar dependendo da quantidade de capas
-
 ![image](https://github.com/user-attachments/assets/caa04971-d196-4380-83ce-6bf51ec038a0)
-agorar podemos proseguir para criação da playlist
-OBS: não e obrigatorio colocar capas nas roms
 
-ESCOLHENDO A OPÇÂO 3
-nessa opção o script cria a lista de roms no menu de seleção do emulador
-escolha um pasta da (000 ate 008) espere o script terminar de criar a lista
-em segudia ele pergunta se deve criar o .dat confirme e a rom sera a dicionada ao menu de seleção do emulador
+```diff
+! OBS: Não é obrigatório adicionar capas nas ROMs.
+```
+
+---
+
+### 🧾 OPÇÃO 3 — Criar lista de jogos no menu do emulador
+
+- Escolha uma pasta entre `000` e `008`.
+- O script criará a lista de jogos e perguntará se deve gerar o arquivo `.dat`.
+
+```diff
++ Confirme para que a ROM seja adicionada ao menu do emulador.
+```
 
 ![image](https://github.com/user-attachments/assets/f3b8466d-841e-493e-a269-ded44d1528da)
 
+---
 
-menu com a rom adicionada
+### 📋 OPÇÃO 4 — Criar lista da aba geral
 
-ESCOLHENDO A OPÇÂO 4
-
-nessa opção o script criar a lista de roms da aba geral a lista sera limitada a 200 roms de cada console de forma aliatoria
+- Essa opção cria uma **lista geral de até 200 ROMs por console**, escolhidas aleatoriamente.
 
 ![image](https://github.com/user-attachments/assets/e1f5e92a-48d8-46c6-8c70-22688f2ad10a)
 
-lista geral com roms adicionadas
+---
 
-
-
-
-
-
- 
+### ✅ Resultado: lista geral com ROMs adicionadas
