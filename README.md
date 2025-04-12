@@ -61,13 +61,12 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 📌 **Exemplo:**
 
 ```
-![image](https://github.com/user-attachments/assets/ace1b7b3-9241-4e25-aceb-a9a517fccb74)
 ```
+![image](https://github.com/user-attachments/assets/ace1b7b3-9241-4e25-aceb-a9a517fccb74)
 
 - Escolha uma pasta de `0` a `8` para processar.
 - Aguarde até o fim — pode demorar dependendo da quantidade de capas.
 
-![image](https://github.com/user-attachments/assets/ace1b7b3-9241-4e25-aceb-a9a517fccb74)
 ![image](https://github.com/user-attachments/assets/caa04971-d196-4380-83ce-6bf51ec038a0)
 
 ```diff
