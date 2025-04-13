@@ -56,7 +56,7 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 ### 🖼️ OPÇÃO 2 — Converter capas
 
 - O script converte as **capas dos jogos** adicionados.
-- As **capas devem estar no formato `.png`** e **com o mesmo nome da ROM**.
+- As **capas devem estar no formato `.png .jpg .jpeg`** e **com o mesmo nome da ROM**.
 
 📌 **Exemplo:**
 
@@ -101,7 +101,6 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 
 ![image](https://github.com/user-attachments/assets/e1f5e92a-48d8-46c6-8c70-22688f2ad10a)
 
----
 ```diff
 + As Roms deveram aparecer na lista geral agora
 ```
