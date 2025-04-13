@@ -9,6 +9,17 @@ Esse script ajudará a atualizar suas playlists do Game Stick.
 - **Firmware**: `V1.0.0 2023-09-25`
 
 ---
+### ⚠️ IMPORTANTE
+
+```diff
+! CREDITOS PELA CRIAÇÃO DESSE SCRIPT
+! KORNCH25
+! https://4pda.to/forum/index.php?showuser=325008
+! HOSTTOOLS1001
+! https://github.com/hosttools1001
+```
+
+---
 
 ### 🗂️ Um pouco sobre a estrutura da playlist desse Game Stick
 
