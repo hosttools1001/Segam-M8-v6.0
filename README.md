@@ -60,7 +60,8 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 
 📌 **Exemplo:**
 
-![image](https://github.com/user-attachments/assets/ace1b7b3-9241-4e25-aceb-a9a517fccb74)
+![image](https://github.com/user-attachments/assets/017048df-564c-43a5-8df6-ccdb1d01f64c)
+
 
 - Escolha uma pasta de `0` a `8` para processar.
 - Aguarde até o fim — pode demorar dependendo da quantidade de capas.
