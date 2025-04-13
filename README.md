@@ -92,6 +92,9 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 
 ### ✅ Resultado: lista com ROMs adicionadas
 
+![image](https://github.com/user-attachments/assets/f8f9e842-ee9c-48f8-91dd-2f7966ffe033)
+
+
 ### 📋 OPÇÃO 4 — Criar lista da aba geral
 
 - Essa opção cria uma **lista geral de até 200 ROMs por console**, escolhidas aleatoriamente.
@@ -99,5 +102,6 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 ![image](https://github.com/user-attachments/assets/e1f5e92a-48d8-46c6-8c70-22688f2ad10a)
 
 ---
-
-### ✅ Resultado: lista geral com ROMs adicionadas
+```diff
++ As Roms deveram aparecer na lista geral agora
+```
