@@ -10,7 +10,7 @@ Esse script ajudará a atualizar suas playlists do Game Stick.
 
 ---
 ### ⚠️ IMPORTANTE
-
+[XAMPP](https://www.apachefriends.org/pt_br/index.html)
 ```diff
 ! CREDITOS PELA CRIAÇÃO DESSE SCRIPT
  KORNCH25
