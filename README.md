@@ -131,5 +131,8 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 
 
 ```diff
-! OBS: Não é obrigatório adicionar capas nas ROMs.
+! As capas seram baixadas na pasta selecionada use a opção 2 para convertelas.
 ```
+
+![image](https://github.com/user-attachments/assets/056456ac-724e-4db9-9c6b-f0eae4f055ea)
+
