@@ -111,6 +111,9 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 
 ![image](https://github.com/user-attachments/assets/e1f5e92a-48d8-46c6-8c70-22688f2ad10a)
 
+```diff
++ As Roms deveram aparecer na lista geral agora
+```
 
 ### 🖼️ OPÇÃO 5 — Download de capas
 
@@ -129,8 +132,4 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 
 ```diff
 ! OBS: Não é obrigatório adicionar capas nas ROMs.
-```
-
-```diff
-+ As Roms deveram aparecer na lista geral agora
 ```
