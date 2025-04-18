@@ -111,6 +111,26 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 
 ![image](https://github.com/user-attachments/assets/e1f5e92a-48d8-46c6-8c70-22688f2ad10a)
 
+
+### 🖼️ OPÇÃO 5 — Download de capas
+
+- O script analisa as roms da pasta selecionada busca e faz o download da capa referente ao nome da rom
+- As **roms nao devem conter caracteres especiais no nome**.
+
+📌 **Exemplo:**
+
+![image](https://github.com/user-attachments/assets/a5fc1cbb-21f0-4336-9405-a6b962843b58)
+
+- Escolha uma pasta de `000` a `008` para processar.
+- Aguarde até o fim — pode demorar dependendo da quantidade de capas.
+
+![image](https://github.com/user-attachments/assets/3d319eea-932d-482e-9b80-8db6c2ed8f64)
+
+
+```diff
+! OBS: Não é obrigatório adicionar capas nas ROMs.
+```
+
 ```diff
 + As Roms deveram aparecer na lista geral agora
 ```
