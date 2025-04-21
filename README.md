@@ -1,12 +1,11 @@
-# Segam-M8-v6.0
+# SEGAM-(M8.v3.0)-(M8.v7.0)-(M18.v8.0)-(M8.v6.0)-(AN01)
 
 Script de atualização da lista de jogos  
 Esse script ajudará a atualizar suas playlists do Game Stick.
 
-📌 **Testado somente no Game Stick Little 4K**
+📌 **Adiciona suporte para outras versões**
 
-- **Tipo**: `segam-m8-v6.0`  
-- **Firmware**: `V1.0.0 2023-09-25`
+- **Tipo**: `SEGAM-(M8.v3.0)-(M8.v7.0)-(M18.v8.0)-(M8.v6.0)-(AN01)`  
 
 ---
 ### ⚠️ IMPORTANTE
@@ -22,18 +21,11 @@ Esse script ajudará a atualizar suas playlists do Game Stick.
 
 ### 🗂️ Um pouco sobre a estrutura da playlist desse Game Stick
 
-![image](https://github.com/user-attachments/assets/c08114af-53dc-474a-855a-a34392aa9614)
+![image](https://github.com/user-attachments/assets/0d7af469-84a6-47ab-86d8-ddde0aaacaba)
 
-Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para atualizar a lista de jogos e capas no menu do Game Stick — **não sendo mais necessário adicionar ROMs via gerenciador de arquivos**.
+Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para atualizar a lista de jogos e capas no menu do Game Stick — **não sendo mais necessário acessar ROMs via gerenciador de arquivos**.
 
 ---
-
-### ⚠️ IMPORTANTE
-
-```diff
-! O SCRIPT CRIA ARQUIVOS TEMPORÁRIOS NO DIRETÓRIO MANIPULADO.
-! VERIFIQUE SE HÁ ESPAÇO DISPONÍVEL NO CARTÃO SD PARA EVITAR ERROS!
-```
 
 ---
 
@@ -46,7 +38,7 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 1. Coloque os arquivos `menu.bat` e a pasta `scripts` na **raiz do cartão SD**.  
 2. Execute `menu.bat`. O menu de opções será exibido:
 
-![image](https://github.com/user-attachments/assets/2f9c3d72-e8b8-43e4-a92a-7835faecb13c)
+![image](https://github.com/user-attachments/assets/3d57cc6e-f336-4745-a3df-22ca8f4ef114)
 
 ---
 
@@ -72,10 +64,10 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 
 ![image](https://github.com/user-attachments/assets/0ceaa688-aebf-471f-966c-d902c7dbcd34)
 
-- Escolha uma pasta de `0` a `8` para processar.
+- Escolha uma pasta de `0` a `14` dependendo da sua versão de sistema para processar.
 - Aguarde até o fim — pode demorar dependendo da quantidade de capas.
 
-![image](https://github.com/user-attachments/assets/caa04971-d196-4380-83ce-6bf51ec038a0)
+![image](https://github.com/user-attachments/assets/3b137749-3e34-49ab-a0f2-0fa6c3a2a8ea)
 
 ```diff
 ! OBS: Não é obrigatório adicionar capas nas ROMs.
@@ -89,14 +81,14 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 ! ⚠️ AO CRIAR UMA LISTA PELA PRIMEIRA VEZ TODAS AS CAPAS ORIGINAIS SERAM APAGADAS
 ! SENDO NECESSARIO ADICIONAR NOVAS CAPAS!
 ```
-- Escolha uma pasta entre `000` e `008`.
+- Escolha uma pasta entre `000` e `014`.
 - O script criará a lista de jogos e perguntará se deve gerar o arquivo `.dat`.
 
 ```diff
 + Confirme para que a ROM seja adicionada ao menu do emulador.
 ```
 
-![image](https://github.com/user-attachments/assets/f3b8466d-841e-493e-a269-ded44d1528da)
+![image](https://github.com/user-attachments/assets/39198ba3-28ec-4dbe-a667-20d89485c896)
 
 ---
 
@@ -122,9 +114,9 @@ Dentro de cada pasta há um arquivo `.dat` que será manipulado pelo script para
 
 📌 **Exemplo:**
 
-![image](https://github.com/user-attachments/assets/a5fc1cbb-21f0-4336-9405-a6b962843b58)
+![image](https://github.com/user-attachments/assets/face4971-10b9-41aa-bc20-315daab2bb70)
 
-- Escolha uma pasta de `000` a `008` para processar.
+- Escolha uma pasta de `000` a `014` para processar.
 - Aguarde até o fim — pode demorar dependendo da quantidade de capas.
 
 ![image](https://github.com/user-attachments/assets/3d319eea-932d-482e-9b80-8db6c2ed8f64)
